@@ -1,0 +1,13 @@
+C:\Project_1610705186\project_1610705186\project_1610705186\bin\Debug\Database1.mdf
+C:\Project_1610705186\project_1610705186\project_1610705186\bin\Debug\Database1_log.ldf
+C:\Project_1610705186\project_1610705186\project_1610705186\bin\Debug\project_1610705186.exe.config
+C:\Project_1610705186\project_1610705186\project_1610705186\bin\Debug\project_1610705186.exe
+C:\Project_1610705186\project_1610705186\project_1610705186\bin\Debug\project_1610705186.pdb
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.csprojAssemblyReference.cache
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.Form2.resources
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.Properties.Resources.resources
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.csproj.GenerateResource.cache
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.exe
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.pdb
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.Form1.resources
+C:\Project_1610705186\project_1610705186\project_1610705186\obj\Debug\project_1610705186.Form3.resources
